@@ -20,7 +20,7 @@
   "author": "amorist",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^5.0.3",
+    "electron": "^7.1.1",
     "tslint": "^5.17.0",
     "typescript": "^3.5.1"
   }
